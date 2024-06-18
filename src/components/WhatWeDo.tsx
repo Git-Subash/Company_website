@@ -1,4 +1,4 @@
-import { WhatWeDoArry } from "@/utils/data";
+import { WhatWeDoArry } from "@/constants/data";
 
 export default function WhatWeDo() {
   return (

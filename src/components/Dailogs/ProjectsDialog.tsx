@@ -35,7 +35,7 @@ import {
   SelectValue,
 } from "../ui/select";
 import { ProjectSchema } from "./ProjectShema";
-import { projectTypes } from "@/utils/data";
+import { projectTypes } from "@/constants/data";
 
 type ProjectsDialogProps = {
   button: ReactNode;

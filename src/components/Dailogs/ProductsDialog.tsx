@@ -34,8 +34,9 @@ import {
   SelectTrigger,
   SelectValue,
 } from "../ui/select";
-import { projectTypes } from "@/utils/data";
+
 import { ProductSchema } from "./ProductShema";
+import { projectTypes } from "@/constants/data";
 
 type ProductsDialogProps = {
   button: ReactNode;
